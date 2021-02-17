@@ -1,0 +1,15 @@
+#weather{
+    background-color: lightblue;
+}
+
+.good{
+    background-color: green;
+}
+
+.okay{
+    background-color: yellow;
+}
+
+.bad{
+    background-color: red;
+}
